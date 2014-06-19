@@ -6,11 +6,11 @@ This plugin uses an acts_as_tree model and creates a breadcrumbs trail attribute
 
 === Homepage
 
-* http://actsasflinn.com/some_post_to_come
+* https://github.com/karmacoma/acts_as_breadcrumbs
 
 === Installation
 
-* script/plugin install svn://rubyforge.org/var/svn/phillyonrails/acts_as_breadcrumbs/trunk
+* script/plugin install git@github.com:karmacoma/acts_as_breadcrumbs.git
 
 === Requirements
 
@@ -49,3 +49,4 @@ Released under the MIT license.
 == Authors
 
 * Flinn Mueller - http://actsasflinn.com
+* Oliver Beddows - https://gihub.com/karmacoma

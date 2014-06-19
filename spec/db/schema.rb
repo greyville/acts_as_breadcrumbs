@@ -1,5 +1,4 @@
-ActiveRecord::Schema.define(:version => 1) do
-
+ActiveRecord::Schema.define(:version => 0) do
   create_table :nodes, :force => true do |t|
     t.column :parent_id, :integer
     t.column :name, :string
@@ -25,5 +24,4 @@ ActiveRecord::Schema.define(:version => 1) do
     t.column :url, :string
     t.column :breadcrumbs, :string
   end
-
 end
